@@ -25,7 +25,7 @@ SECRET_KEY = 'zh+a8*@1xni&8(9_d$gr)+((e%s7ip25_s3owcyxwoc#+2j(i7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<твоё_имя_пользователя>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Elyvilion.pythonanywhere.com']
 
 
 # Application definition
